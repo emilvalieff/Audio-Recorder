@@ -10,3 +10,5 @@ Firstly we need 3 library in Python
 2) We can use either wavio and scipy to save the recorded audio in file format. We will see both of them here .
 3) To install wavio : ** pip install wavio**
 4) to install scipy ** pip install scipy**
+
+Then we need the write Python Code any code editor ( or terminal { optional })
