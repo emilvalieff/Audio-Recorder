@@ -12,3 +12,5 @@ Firstly we need 3 library in Python
 4) to install scipy ** pip install scipy**
 
 Then we need the write Python Code any code editor ( or terminal { optional })
+
+Go to https://github.com/emilvalieff/Audio-Recorder/blob/main/AudioRecorder.py
